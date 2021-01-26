@@ -1,0 +1,7 @@
+link:
+1. https://www.youtube.com/watch?v=wRhD064R_Ro&list=PLKzgdQXYRdY2jj374XRscjkMwn6nldMnp&index=2&fbclid=IwAR1wJ5m0R7yOv6IAgoHi0p-MbrRIBP9g79nYzRXki02S38eAj3J9YPB2oKw
+2.https://www.youtube.com/watch?v=xYNkEA0_1Mw&list=PL29LJRRXoI77XelA0SOfEWEnetTM0rdQ-
+3.https://www.youtube.com/watch?v=Uxm47PhdYLY&t=1098s
+4.https://laptrinhvb.net/bai-viet/devexpress/Huong-dan-su-dung-Ribbon-Bar-Menu-trong-Devexpress/663eaf094cf33b0f.html
+5. add usercontrol :http://diendan.congdongcviet.com/threads/t73748::huong-dan-addtab-con-dong-vao-xtratabcontrol-trong-devexpress.cpp
+6. hóa đơn bằng devreport:https://www.youtube.com/watch?v=6fqD_spnDhg
